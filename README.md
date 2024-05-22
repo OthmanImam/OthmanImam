@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PHP, CSS, Java Script and React
 - - 💞️ I’m looking to collaborate on frontend development
 - 📫 How to reach me cross social media platforms Facebook, X, LinkIn, and FreeCode Camp
-- 😄 Pronouns: He/She
+- 😄 Pronouns: He
 - ⚡ Fun fact: I can do anything to achive my goal
 
 <!---
