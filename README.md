@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OthmanImam
-- 👀 I’m interested in frontend development, and backend as well.
-- 🌱 I’m currently learning PHP, CSS, Java Script and React
-- - 💞️ I’m looking to collaborate on frontend development
+- 👀 I’m interested in full-stack development.
+- 🌱 I’m currently learning Nest, Next, Cairo and others
+- 💞️ I’m looking forward to collaborate on full-stack development
 - 📫 How to reach me cross social media platforms Facebook, X, LinkIn, and FreeCode Camp
 - 😄 Pronouns: He
 - ⚡ Fun fact: I can do anything to achive my goal
