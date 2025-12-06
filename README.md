@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @OthmanImam
+- I'm an Open-source contributor.
 - 👀 I’m interested in full-stack development.
-- 🌱 I’m currently learning Nest, Next, Cairo and others
+- 🌱 My Stacks Nodejs, Nextjs, React, Cairo and others
 - 💞️ I’m looking forward to collaborate on full-stack development
 - 📫 How to reach me cross social media platforms Facebook, X, LinkIn, and FreeCode Camp
 - 😄 Pronouns: He
