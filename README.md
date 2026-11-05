@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Othman%20Imam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Smart%20Contracts%20·%20Backend%20Systems%20·%20Open%20Source&descAlignY=60&descSize=16" alt="Othman Imam" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Othman%20Imam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Smart%20[...]
 
 <a href="https://github.com/OthmanImam">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=5EEAD4&center=true&vCenter=true&width=640&lines=Building+trustless+systems+that+hold+up+in+production;Rust+%C2%B7+Soroban+%C2%B7+TypeScript;Documented.+Tested.+Shipped." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=5EEAD4&center=true&vCenter=true&width=640&lines=Building+trustless+systems+tha[...]
 </a>
 
 <br/>
@@ -18,7 +18,7 @@
 
 ## ◈ Overview
 
-I design and ship software where **correctness is non-negotiable**: on-chain contracts that move value, and backend services that keep organizational data consistent. My approach is simple, and it shows in my pull requests:
+I design and ship software where **correctness is non-negotiable**: on-chain contracts that move value, and backend services that keep organizational data consistent. My approach is simple, and it[...]
 
 > **Specify it. Implement it. Document it. Prove it with tests.**
 
@@ -109,10 +109,10 @@ A full job lifecycle, implemented function by function:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=OthmanImam&show_icons=true&hide_border=true&bg_color=0f2027&title_color=5eead4&icon_color=5eead4&text_color=cbd5e1&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OthmanImam&layout=compact&hide_border=true&bg_color=0f2027&title_color=5eead4&text_color=cbd5e1" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=OthmanImam&show_icons=true&hide_border=true&bg_color=0f2027&title_color=5eead4&icon_color=5eead4&text_color=cbd5e1&count[...]
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OthmanImam&layout=compact&hide_border=true&bg_color=0f2027&title_color=5eead4&text_color=cbd5e1" alt="Top lan[...]
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OthmanImam&theme=transparent&hide_border=true&stroke=5eead4&ring=5eead4&fire=5eead4&currStreakLabel=cbd5e1&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" alt="Contribution streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OthmanImam&theme=transparent&hide_border=true&stroke=5eead4&ring=5eead4&fire=5eead4&currStreakLabel=cbd5e1&sideLabels=cbd5e1&currS[...]
 
 </div>
 
@@ -121,7 +121,7 @@ A full job lifecycle, implemented function by function:
 <br/>
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OthmanImam&bg_color=0f2027&color=5eead4&line=2c5364&point=ffffff&area=true&hide_border=true" alt="Contribution graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OthmanImam&bg_color=0f2027&color=5eead4&line=2c5364&point=ffffff&area=true&hide_border=true" alt="Contribution graph" widt[...]
 
 </div>
 </details>
@@ -135,6 +135,7 @@ I'm open to contract-based smart contract work, backend roles, and meaningful op
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-OthmanImam-0f2027?style=for-the-badge&logo=github&logoColor=5eead4)](https://github.com/OthmanImam)
+[![Website](https://img.shields.io/badge/Website-Portfolio-0f2027?style=for-the-badge&logo=globe&logoColor=5eead4)](https://othman-imam-site.onrender.com/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-0f2027?style=for-the-badge&logo=gmail&logoColor=5eead4)](mailto:your-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f2027?style=for-the-badge&logo=linkedin&logoColor=5eead4)](https://linkedin.com/in/your-handle)
 [![X](https://img.shields.io/badge/X-Follow-0f2027?style=for-the-badge&logo=x&logoColor=5eead4)](https://x.com/your-handle)
